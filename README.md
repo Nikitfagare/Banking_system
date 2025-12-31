@@ -44,8 +44,3 @@ print(bank.transfer("S001", "C001", 300))
 - Add authentication and security features  
 - Extend with more account types like Fixed Deposit or Loan Accounts  
 
----
-
-This is the **plain, professional version** — easy to copy into your README file.  
-
-Do you want me to also write a **Getting Started section** (how to run the program step by step) so it looks complete for someone new to your repo?
