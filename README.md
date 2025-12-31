@@ -1,7 +1,3 @@
-Got it 👍 — here’s a **simple, normal-style README description** you can copy directly, without extra formatting or emojis:
-
----
-
 # Banking System in Python
 
 ## Description
