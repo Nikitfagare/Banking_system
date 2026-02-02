@@ -19,7 +19,7 @@ This project is a basic Banking System built using Object-Oriented Programming (
 - Composition: Bank class manages multiple Account objects  
 
 ## Example Usage
-```python
+```python'
 bank = Bank("My Bank")
 
 savings = SavingsAccount("S001", "Nikit", 1000)
